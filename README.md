@@ -2,11 +2,11 @@
 
 ### 简述
 
-**说明：**从0开始配置一套 react + typescript 的 webpack 配置（本次使用webpack5版本）
+**说明**：从0开始配置一套 react + typescript 的 webpack 配置（本次使用webpack5版本）
 
-**参考：**[配置webpack（上）](https://juejin.cn/post/6860129883398668296)、[配置webpack（下）](https://juejin.cn/post/6860134655568871437)
+**参考**：[配置webpack（上）](https://juejin.cn/post/6860129883398668296)、[配置webpack（下）](https://juejin.cn/post/6860134655568871437)
 
-**补充：**为了消除版本不同可能的产生的bug，在下文中下载第三包时补充了此项目所用的版本信息，不意味着一定要使用该版本
+**补充**：为了消除版本不同可能的产生的bug，在下文中下载第三包时补充了此项目所用的版本信息，不意味着一定要使用该版本
 
 **特色：**主要以实现核心功能为主
 
